@@ -14,3 +14,15 @@ The daily log of my **#301DaysOfCode** challenge.
 When sth does not work with coding, take a deep breath:->
 
 **Link to work:**
+
+### Day 2: [30/11/2018]
+
+**Today's Progress:**
+->Continued with  Wordpress plugins and built finally simple, but working shortcode plugins and one widget plugin
+
+
+**Thoughts:**
+Perseverance is the key to success!
+
+**Link to work:**
+https://github.com/Izabela18/simple-wordpress-plugins/tree/master
