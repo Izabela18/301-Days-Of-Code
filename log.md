@@ -32,9 +32,10 @@ https://github.com/Izabela18/simple-wordpress-plugins/tree/master
 
 **Today's Progress:**
 ->Built simple site with parallax scrolling effect
+->Has learnt myself how to upload project with user.github.io :->
 
 **Thoughts:**
 Try to complete sth every day even when you are tired:)
 
 **Link to work:**
-<a href="https://codepen.io/iza_n/full/VVgWNm/">Codepen</a>
+<a href="https://codepen.io/iza_n/full/VVgWNm/">Codepen</a> or Github <a href="https://izabela18.github.io/parallax">Github</a>
