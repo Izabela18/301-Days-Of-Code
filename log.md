@@ -18,7 +18,8 @@ When sth does not work with coding, take a deep breath:->
 ### Day 2: [30/11/2018]
 
 **Today's Progress:**
-->Continued with  Wordpress plugins and built finally simple, but working shortcode plugins and one widget plugin
+->Continued with  Wordpress plugins and built finally simple, but working shortcode plugins and one widget plugin;
+->Continued with #100DaysOfCode with @FreeCodeCamp  and finished Basics HTML part
 
 
 **Thoughts:**
@@ -26,3 +27,14 @@ Perseverance is the key to success!
 
 **Link to work:**
 https://github.com/Izabela18/simple-wordpress-plugins/tree/master
+
+### Day 3: [01/12/2018]
+
+**Today's Progress:**
+->Built simple site with parallax scrolling effect
+
+**Thoughts:**
+Try to complete sth every day even when you are tired:)
+
+**Link to work:**
+<a href="https://codepen.io/iza_n/full/VVgWNm/">Codepen</a>
