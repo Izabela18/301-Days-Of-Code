@@ -39,3 +39,16 @@ Try to complete sth every day even when you are tired:)
 
 **Link to work:**
 <a href="https://codepen.io/iza_n/full/VVgWNm/">Codepen</a> or Github <a href="https://izabela18.github.io/parallax">Github</a>
+
+### Day 4: [02/12/2018]
+
+**Today's Progress:**
+->Read web-development-related articles on Medium and read Learning Web Design by Jennifer Niederst Robbins
+
+### Day 5: [03/12/2018]
+
+**Today's Progress:**
+->Worked over my school lab with building Woocommerce plugins
+
+**Thoughts:**
+Sometimes it is hard to follow documentation.
