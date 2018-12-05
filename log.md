@@ -52,3 +52,20 @@ Try to complete sth every day even when you are tired:)
 
 **Thoughts:**
 Sometimes it is hard to follow documentation.
+
+### Day 6: [04/12/2018]
+
+**Today's Progress:**
+->Continued my school lab with building Woocommerce plugins
+->Succeeded to build custom Woocommerce shipping method
+
+**Thoughts:**
+Plugins are not an easy-peasy bit...
+
+### Day 7: [03/12/2018]
+
+**Today's Progress:**
+->Learned sth new about RESTful and SOAP APIs
+
+**Thoughts:**
+Interesting subject although a bit difficult to understand for a newbie
