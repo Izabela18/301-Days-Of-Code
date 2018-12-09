@@ -62,10 +62,34 @@ Sometimes it is hard to follow documentation.
 **Thoughts:**
 Plugins are not an easy-peasy bit...
 
-### Day 7: [03/12/2018]
+### Day 7: [05/12/2018]
 
 **Today's Progress:**
 ->Learned sth new about RESTful and SOAP APIs
 
 **Thoughts:**
 Interesting subject although a bit difficult to understand for a newbie
+
+### Day 8: [06/12/2018]
+
+**Today's Progress:**
+->Continued my school lab with building Woocommerce plugins
+->Created additional  fields checkout plugin with text field and checkbox
+
+### Day 9: [07/12/2018]
+
+**Today's Progress:**
+->Finished "Basic CSS" part of @FreeCodeCamp
+
+### Day 10: [08/12/2018]
+
+**Today's Progress:**
+->Done with Woocommerce plugins labboration found on <a href= "https://github.com/Izabela18/woocommerce-plugins" Github></a>
+
+**Today's Progress:**
+->Satisfied that finished however could not find solution how to get the value of checked checkbox in Woocommerce admin
+
+### Day 11: [09/12/2018]
+
+**Today's Progress:**
+->Reading 'Learning Web Design' and webdevelopment-related articles on Medium
