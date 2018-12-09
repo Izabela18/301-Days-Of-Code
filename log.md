@@ -84,7 +84,7 @@ Interesting subject although a bit difficult to understand for a newbie
 ### Day 10: [08/12/2018]
 
 **Today's Progress:**
-->Done with Woocommerce plugins labboration found on <a href= "https://github.com/Izabela18/woocommerce-plugins" Github></a>
+->Done with Woocommerce plugins labboration found on <a href = "https://github.com/Izabela18/woocommerce-plugins"> Github></a>
 
 **Today's Progress:**
 ->Satisfied that finished however could not find solution how to get the value of checked checkbox in Woocommerce admin
