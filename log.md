@@ -93,3 +93,27 @@ Interesting subject although a bit difficult to understand for a newbie
 
 **Today's Progress:**
 ->Reading 'Learning Web Design' and webdevelopment-related articles on Medium
+
+### Day 12: [10/12/2018]
+
+**Today's Progress:**
+->Reading 'Learning Web Design' and webdevelopment-related articles on Medium
+
+### Day 13: [11/12/2018]
+
+**Today's Progress:**
+->Installed Magento (e-commerce CMS platform) and first familiarized myself with the tool;
+->Started working over my final school project that includes creating e-commerce site on WooCommerce
+
+### Day 14: [12/12/2018]
+
+**Today's Progress:**
+->Started frond-end part tutorials on LinkedIn learning platform, watched and learned about advanced CSS tricks (flex and grid)
+
+### Day 15: [13/12/2018]
+
+**Today's Progress:**
+->Created #30Ssites30days|day 3|tourist attraction site with the use of slideshow gallery and flex
+
+**Link to work:**
+<a href="https://codepen.io/iza_n/full/XommmB">Codepen</a>
