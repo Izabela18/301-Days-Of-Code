@@ -116,4 +116,16 @@ Interesting subject although a bit difficult to understand for a newbie
 ->Created #30Ssites30days|day 3|tourist attraction site with the use of slideshow gallery and flex
 
 **Link to work:**
-<a href="https://codepen.io/iza_n/full/XommmB">Codepen</a>
+<a href="https://codepen.io/iza_n/full/XommmB">Codepen</a> or <a href="https://izabela18.github.io/tourism">Github</a>
+
+### Day 16: [09/01/2019]
+
+**Today's Progress:**
+->Working over development of online shop with the use of WooCommerce
+->Starting LinkedIn learning paths "Become a Front-End Web Developer" and "Become a WordPress Ecommerce Developer"
+
+**Thoughts:**
+->Coming back to game after life's ups and downs
+
+**Link to work:**
+<a href="http://dev-cms2-labb4.pantheonsite.io/">Online shop in WooCommerce</a>in development stage
