@@ -129,3 +129,12 @@ Interesting subject although a bit difficult to understand for a newbie
 
 **Link to work:**
 <a href="http://dev-cms2-labb4.pantheonsite.io/">Online shop in WooCommerce</a>in development stage
+
+### Day 17: [23/01/2019]
+
+**Today's Progress:**
+-> Refreshing React knowledge and ES6 syntax in React with LinkedIn and Skillshare
+-> Flexbox practiced with <a href="https://www.w3schools.com/css/css3_flexbox.asp#justify-content">www.w3schools.com</a>and <a href="https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af">"Understanding-flexbox-everything-you-need-to-know" article on Medium</a>
+
+**Link to work:**
+<a href="https://izabela18.github.io/react_refresh">Intro React exercise with states and props</a>
