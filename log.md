@@ -145,5 +145,10 @@ Interesting subject although a bit difficult to understand for a newbie
 -> Work with Flex-based example site continued
 -> Flexbox practiced with <a href="https://www.w3schools.com/css/css3_flexbox.asp#justify-content">www.w3schools.com</a>and <a href="https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af">"Understanding-flexbox-everything-you-need-to-know" article on Medium</a>
 
+### Day 19: [25/01/2019]
+
+**Today's Progress:**
+-> Work with Flex-based example site and day 4 with #30Days30Sites completed finally!
+
 **Link to work:**
-<a href="https://izabela18.github.io/flex">Intro React exercise with states and props</a>
+<a href="https://izabela18.github.io/flex">Flexbox based example site - "Goal App"</a>
