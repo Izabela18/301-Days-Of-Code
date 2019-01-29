@@ -152,3 +152,12 @@ Interesting subject although a bit difficult to understand for a newbie
 
 **Link to work:**
 <a href="https://izabela18.github.io/flex">Flexbox based example site - "Goal App"</a>
+
+### Day 20: [29/01/2019]
+
+**Today's Progress:**
+-> Practicing React with LinkedIn and Skillshare tutorials and official React documentation
+->Built a small React app that shows available vacancies
+
+**Link to work:**
+<a href="https://github.com/Izabela18/React_available_jobs_app">React_available_jobs_app</a>
