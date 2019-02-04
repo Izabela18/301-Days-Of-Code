@@ -161,3 +161,11 @@ Interesting subject although a bit difficult to understand for a newbie
 
 **Link to work:**
 <a href="https://github.com/Izabela18/React_available_jobs_app">React_available_jobs_app</a>
+
+### Day 21: [04/02/2019]
+
+**Today's Progress:**
+-> Built a responsive website with FreeCodeCamp, Trribute Page, with the use CSS grid
+
+**Link to work:**
+<a href="https://izabela18.github.io/tribute">Tribute Page</a> or <a href="https://codepen.io/iza_n/pen/qgRMpz">CodePen</a>
