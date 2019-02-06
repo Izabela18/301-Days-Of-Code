@@ -169,3 +169,9 @@ Interesting subject although a bit difficult to understand for a newbie
 
 **Link to work:**
 <a href="https://izabela18.github.io/tribute">Tribute Page</a> or <a href="https://codepen.io/iza_n/pen/qgRMpz">CodePen</a>
+
+### Day 22: [06/02/2019]
+
+**Today's Progress:**
+-> Learned Prometheus and Grafana metrics tools,
+-> React documentation and tuts & APis tuts with LinkedIn
