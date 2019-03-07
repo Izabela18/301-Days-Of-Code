@@ -176,7 +176,7 @@ Interesting subject although a bit difficult to understand for a newbie
 -> Learned Prometheus and Grafana metrics tools,
 -> React documentation and tuts & APis tuts with LinkedIn
 
-### Day 23: [03/06/2019]
+### Day 23: [06/03/2019]
 
 **Today's Progress:**
 -> Built a React app which features news feed with the help of APIs.
@@ -186,3 +186,11 @@ Interesting subject although a bit difficult to understand for a newbie
 
 **Link to work:**
 <a href="https://github.com/Izabela18/api_app-react/">News feed Api-based React app</a>
+
+### Day 24: [07/03/2019]
+
+**Today's Progress:**
+-> Started work over new React-app focused on interface
+-> Javascript with Udemy course by @JONASSCHMEDTMAN
+-> FreeCodeCamp -Javascript part Continued
+-> CSS animations tuts
