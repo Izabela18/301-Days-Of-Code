@@ -185,7 +185,7 @@ Interesting subject although a bit difficult to understand for a newbie
 ->I have learned many things and coded a bit from my last entry but missed to update my log:(
 
 **Link to work:**
-<a href="https://github.com/Izabela18/api_app-react/">News feed Api-based React app</a>
+<a href="https://github.com/Izabela18/api_app-react/">News feed Api-based React app - code</a> and front-end here <a href="https://peaceful-brahmagupta-a1c8e0.netlify.com/">News feed Api-based React app </a>
 
 ### Day 24: [07/03/2019]
 
@@ -194,3 +194,32 @@ Interesting subject although a bit difficult to understand for a newbie
 -> Javascript with Udemy course by @JONASSCHMEDTMAN
 -> FreeCodeCamp -Javascript part Continued
 -> CSS animations tuts
+
+### Day 25: [08/03/2019]
+
+**Today's Progress:**
+-> Continued work over new React-app focused on interface
+
+### Day 26: [09/03/2019]
+
+**Today's Progress:**
+-> Completed 'Survey Form' project with @freeCodeCamp
+
+**Link to work:**
+<a href="https://codepen.io/iza_n/pen/JzoWzE">Survey form</a>
+
+### Day 27: [11/03/2019]
+
+**Today's Progress:**
+-> Continued work over new React-app focused on interface
+-> Completed CSS-animation project (transition and transform properties)
+-> Discovered Netlify to present my works:)
+
+**Link to work:**
+<a href="https://laughing-curie-3276f8.netlify.com/">CSS transition effects project</a>
+
+### Day 28: [12/03/2019]
+
+**Today's Progress:**
+-> @freeCodeCamp and Javascript part continued
+-> started WesBos course #JavaScript30 with DrumKit app
