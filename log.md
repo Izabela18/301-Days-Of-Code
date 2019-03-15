@@ -185,7 +185,7 @@ Interesting subject although a bit difficult to understand for a newbie
 ->I have learned many things and coded a bit from my last entry but missed to update my log:(
 
 **Link to work:**
-<a href="https://github.com/Izabela18/api_app-react/">News feed Api-based React app - code</a> and front-end here <a href="https://peaceful-brahmagupta-a1c8e0.netlify.com/">News feed Api-based React app </a>
+<a href="https://github.com/Izabela18/api_app-react/">News feed Api-based React app - code</a> and front-end here <a href="https://news-feed-apis.netlify.com/">News feed Api-based React app </a>
 
 ### Day 24: [07/03/2019]
 
@@ -216,10 +216,30 @@ Interesting subject although a bit difficult to understand for a newbie
 -> Discovered Netlify to present my works:)
 
 **Link to work:**
-<a href="https://laughing-curie-3276f8.netlify.com/">CSS transition effects project</a>
+<a href="https://hover-transitions-icons.netlify.com/">CSS transition effects project</a>
 
 ### Day 28: [12/03/2019]
 
 **Today's Progress:**
 -> @freeCodeCamp and Javascript part continued
 -> started WesBos course #JavaScript30 with DrumKit app
+
+### Day 29: [13/03/2019]
+
+**Today's Progress:**
+-> continued work over my React app - Freelance jobs organizer app
+
+### Day 30: [14/03/2019]
+
+**Today's Progress:**
+-> Python programming workshops with @PinkProgramming at Volvo headquarters
+
+
+### Day 31: [15/03/2019]
+
+**Today's Progress:**
+->React app finished - Freelance jobs organizer app
+->Finally understood how to build child components and props-state connection with a parent components
+
+**Link to work:**
+<a href="https://freelance-jobs-organizer.netlify.com/">Freelance jobs organizer app</a>
