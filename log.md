@@ -243,3 +243,21 @@ Interesting subject although a bit difficult to understand for a newbie
 
 **Link to work:**
 <a href="https://freelance-jobs-organizer.netlify.com/">Freelance jobs organizer app</a>
+
+### Day 32: [18/03/2019]
+
+**Today's Progress:**
+->Continued with @WesBos course on #JavaScript30
+->Javascript: manipulating event handlers and start to work over small JS animations
+
+
+
+### Day 33: [19/03/2019]
+
+**Today's Progress:**
+->LinkedIn courses on JS foundations
+->JS animation: JS  face animation activated with mouse tracker
+
+
+**Link to work:**
+<a href="https://github.com/Izabela18/javascript-face-animation">JS face animation - code </a>
