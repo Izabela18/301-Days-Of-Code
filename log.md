@@ -251,7 +251,6 @@ Interesting subject although a bit difficult to understand for a newbie
 ->Javascript: manipulating event handlers and start to work over small JS animations
 
 
-
 ### Day 33: [19/03/2019]
 
 **Today's Progress:**
@@ -260,4 +259,24 @@ Interesting subject although a bit difficult to understand for a newbie
 
 
 **Link to work:**
-<a href="https://github.com/Izabela18/javascript-face-animation">JS face animation - code </a>
+<a href="https://github.com/Izabela18/javascript-face-animation">JS face animation - code </a> and here <a href="https://face-animation-js.netlify.com/">Face animation based on JS - frontend</a>
+
+### Day 34: [20/03/2019]
+
+**Today's Progress:**
+->LinkedIn course on ES6 started
+->JS animation with the use of requestAnimationFrame()
+
+
+**Link to work:**
+<a href="https://github.com/Izabela18/animationFrame">JS requestAnimationFrame()-based animation - code </a> and here <a href="https://animationframe.netlify.com/">JS requestAnimationFrame()-based animation - fronted</a>
+
+### Day 35: [21/03/2019]
+
+**Today's Progress:**
+
+->JS-based spinners' animation with animate() and change colorPicker
+
+
+**Link to work:**
+<a href="https://github.com/Izabela18/spinners">JS spinners' animation - code </a> and here <a href="https://spinners-animate.netlify.com/">JS spinners' animation - frontend</a>
