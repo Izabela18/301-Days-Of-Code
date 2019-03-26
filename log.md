@@ -277,6 +277,25 @@ Interesting subject although a bit difficult to understand for a newbie
 
 ->JS-based spinners' animation with animate() and change colorPicker
 
-
 **Link to work:**
 <a href="https://github.com/Izabela18/spinners">JS spinners' animation - code </a> and here <a href="https://spinners-animate.netlify.com/">JS spinners' animation - frontend</a>
+
+### Day 36: [22/03/2019]
+
+**Today's Progress:**
+
+->Wordpress child theme development tuts
+
+### Day 37: [25/03/2019]
+
+**Today's Progress:**
+
+->Wordpress themes' market analysis:)
+
+
+### Day 38: [26/03/2019]
+
+**Today's Progress:**
+
+->Wordpress child theme development using Gutenberg version and Ashe theme;
+->Css play work with border-image and background: linear-gradient;
