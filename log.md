@@ -298,4 +298,33 @@ Interesting subject although a bit difficult to understand for a newbie
 **Today's Progress:**
 
 ->Wordpress child theme development using Gutenberg version and Ashe theme;
+->LinkedIn Wordpress child theme development course finished and cert received;
 ->Css play work with border-image and background: linear-gradient;
+
+### Day 39: [27/03/2019]
+
+**Today's Progress:**
+
+->CSS borders with CSS filters and background-clip - examples coded for future reference:), used Materialize.css too
+
+**Link to work:**
+<a href="https://izabela18.github.io/borders">CSS borders with CSS filters and background-clip</a>
+
+### Day 40: [28/03/2019]
+
+**Today's Progress:**
+
+->studied theory on Wordpress child theme development
+
+### Day 41: [01/04/2019]
+
+**Today's Progress:**
+
+->Wordpress Rest API tuts with LinkedIn
+
+### Day 42: [02/04/2019]
+
+**Today's Progress:**
+
+->Wordpress Rest API as backend and React as frontend (headless CMS) - tuts and articles
+->started to build website based on Wordpress Gantry5 theme framework
