@@ -328,3 +328,14 @@ Interesting subject although a bit difficult to understand for a newbie
 
 ->Wordpress Rest API as backend and React as frontend (headless CMS) - tuts and articles
 ->started to build website based on Wordpress Gantry5 theme framework
+
+### Day 43: [01/05/2019]
+
+**Today's Progress:**
+->Building Wordpress site based on Gantry framework
+->Learned how html.twig and yaml files are interconnected and how they work in this framework
+->prototypes of front-side and subsides have been built
+->worked a bit with aos-jquery framework och animate.css with design part
+
+**Thoughts:**
+There was many days of coding in-between but I failed to update it.
