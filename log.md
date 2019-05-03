@@ -339,3 +339,14 @@ Interesting subject although a bit difficult to understand for a newbie
 
 **Thoughts:**
 There was many days of coding in-between but I failed to update it.
+
+### Day 44: [02/05/2019]
+
+**Today's Progress:**
+->contact form page and css work with Wordpress side
+
+### Day 45: [03/05/2019]
+
+**Today's Progress:**
+->analyzing and comparing different css & js animation libraries
+->started to build another Wordpress site based on underscores starter theme
