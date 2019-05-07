@@ -343,10 +343,22 @@ There was many days of coding in-between but I failed to update it.
 ### Day 44: [02/05/2019]
 
 **Today's Progress:**
-->contact form page and css work with Wordpress side
+->contact form page built and css work with Wordpress site
 
 ### Day 45: [03/05/2019]
 
 **Today's Progress:**
 ->analyzing and comparing different css & js animation libraries
 ->started to build another Wordpress site based on underscores starter theme
+
+### Day 46: [06/05/2019]
+
+**Today's Progress:**
+->working on my Wordpress site based on Gantry framework
+->working with animate.css and AOS frameworks
+
+### Day 47: [07/05/2019]
+
+**Today's Progress:**
+->working on my Wordpress site based on Gantry framework
+->learning a bit of jquery when customizing owlcarousel
